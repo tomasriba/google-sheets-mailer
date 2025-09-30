@@ -1,3 +1,5 @@
+# Google Apps Script for automating personalized emails
+
 Google Apps Script that automates sending personalized bulk emails from Google Sheets using Gmail. Recipient data is read from a spreadsheet and merged into a customized message template before sending.
 
 The script connects Google Sheets with Gmail to:
